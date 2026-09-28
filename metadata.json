@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based PLM Supplier Collaboration System",
+  "description": "Enterprise AI-Based Product Lifecycle Management (PLM) Supplier Collaboration and Automated Forecast Communication System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
